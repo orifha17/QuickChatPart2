@@ -11,6 +11,7 @@ import java.util.Scanner;
  * Part 2 only becomes available after a successful login.
  * Added menu for Message.
  * Added recipient validation.
+ * Added message ID generation.
  */
 public class Main {
 
