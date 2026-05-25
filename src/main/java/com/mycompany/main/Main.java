@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  * Main console application for Part 1 and Part 2.
  * Part 2 only becomes available after a successful login.
+ * Added menu for Message.
  */
 public class Main {
 
