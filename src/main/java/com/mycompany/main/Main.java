@@ -13,6 +13,7 @@ import java.util.Scanner;
  * Added recipient validation.
  * Added message ID generation.
  * Implemented message hash.
+ * Added unit tests.
  */
 public class Main {
 
