@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Message class for Part 2: Sending Messages.
+ * Message class for Part 2: Sending Messages
  */
 public class Message {
     private String messageID;
