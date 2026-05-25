@@ -14,6 +14,7 @@ import java.util.Scanner;
  * Added message ID generation.
  * Implemented message hash.
  * Added unit tests.
+ * Completed send/discard/store feature.
  */
 public class Main {
 
