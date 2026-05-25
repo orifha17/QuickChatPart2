@@ -12,6 +12,7 @@ import java.util.Scanner;
  * Added menu for Message.
  * Added recipient validation.
  * Added message ID generation.
+ * Implemented message hash.
  */
 public class Main {
 
